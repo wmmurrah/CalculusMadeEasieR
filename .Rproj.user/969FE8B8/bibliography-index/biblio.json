@@ -1,0 +1,92 @@
+{
+    "sources": [
+        {
+            "URL": "http://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "edition": "2nd",
+            "id": "xie2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1498716963",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Dynamic documents with R and knitr",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Adler",
+                    "given": "Frederick R"
+                }
+            ],
+            "id": "adler2012modeling",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "publisher": "Cengage Learning",
+            "title": "Modeling the dynamics of life: Calculus and probability for life scientists",
+            "title-short": "Modeling the dynamics of life",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Thompson",
+                    "given": "Silvanus P"
+                },
+                {
+                    "family": "Gardner",
+                    "given": "Martin"
+                }
+            ],
+            "id": "thompson1998calculus",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "publisher": "Macmillan",
+            "title": "Calculus made easy",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bolker",
+                    "given": "Benjamin M"
+                }
+            ],
+            "id": "bolker2008ecological",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "publisher": "Princeton University Press",
+            "title": "Ecological models and data in R",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "book.bib"
+    ]
+}
