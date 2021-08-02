@@ -4,6 +4,7 @@ author: "William Murrah"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
+output_dir: "docs"
 bibliography: [book.bib]
 biblio-style: apalike
 csl: apa.csl
